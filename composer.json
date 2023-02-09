@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/untitled4",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "JB",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "*",
+    "symfony/cache": "*"
+  }
+}
